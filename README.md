@@ -1,5 +1,10 @@
 #  About Me:
- I'm currently working on<br>Data Analytics projects using Python, SQL, Excel, and Power BI. I'm also building my GitHub portfolio with real-world data analysis projects.<br> I'm looking to collaborate on<br>Open-source Data Analytics, Python, SQL, Machine Learning, and Data Visualization projects.<br> I'm looking for help with<br>Advanced Data Analytics, Machine Learning, Git/GitHub best practices, and open-source contributions.<br> I'm currently learning<br>Python for Data Analysis, SQL, Power BI, Excel, Statistics, Pandas, NumPy, and Machine Learning.<br> Ask me about<br>Python, SQL, Data Analysis, Excel, Power BI, Git, GitHub, and Computer Science fundamentals.<br> Fun fact<br>I enjoy turning raw data into meaningful insights.<br>I love solving real-world problems using data.
+ I'm currently working on<br>Data Analytics projects using Python, SQL, Excel, and Power BI. I'm also building my GitHub portfolio with real-world data analysis projects.<br> 
+ I'm looking to collaborate on<br>Open-source Data Analytics, Python, SQL, Machine Learning, and Data Visualization projects.<br>
+ I'm looking for help with<br>Advanced Data Analytics, Machine Learning, Git/GitHub best practices, and open-source contributions.<br> 
+ I'm currently learning<br>Python for Data Analysis, SQL, Power BI, Excel, Statistics, Pandas, NumPy, and Machine Learning.<br>
+ Ask me about<br>Python, SQL, Data Analysis, Excel, Power BI, Git, GitHub, and Computer Science fundamentals.<br> 
+ Fun fact<br>I enjoy turning raw data into meaningful insights.<br>I love solving real-world problems using data.
 
 
 ##  Socials:
